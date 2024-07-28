@@ -1,0 +1,7 @@
+[user]
+    name = Vitaly Govor
+    email = vitaly.govor@icloud.com
+
+
+[commit]
+    gpgsign = false

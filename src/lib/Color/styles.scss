@@ -1,0 +1,78 @@
+.color {
+	display: flex;
+	gap: 16px;
+	flex-grow: 1;
+	background: #fff;
+
+	&:hover {
+		background: #f2f1f187;
+	}
+
+	&-preview {
+		display: flex;
+		width: 200px;
+		height: 200px;
+	}
+
+	&-engineer-name {
+		display: flex;
+		flex-grow: 0;
+		width: 120px;
+		justify-content: flex-start;
+		align-items: center;
+		font-size: 18px;
+		font-weight: 600;
+	}
+
+	&-values {
+		display: flex;
+		flex-direction: row;
+		gap: 8px;
+		align-items: flex-start;
+		justify-content: flex-start;
+		align-items: center;
+
+		.hsla {
+			display: flex;
+			flex-grow: 0;
+			width: 300px;
+		}
+
+		.rgba {
+			display: flex;
+			flex-grow: 0;
+			width: 200px;
+			margin-left: calc(16px + 8px);
+		}
+
+		.hex {
+			display: flex;
+			flex-grow: 0;
+			width: 200px;
+			margin-left: calc(16px + 8px);
+		}
+
+		.rgba,.hex,.hsla {
+			gap: 8px;
+
+			.mini-preview {
+				height: 16px;
+				width: 16px;
+				border: 1px solid #ececec;
+				opacity: 1;
+				color: #a6a5a5;
+			}
+		}
+
+		.copy {
+			opacity: 0;
+			color: #5828d2;
+		}
+
+		.rgba:hover .copy, .hex:hover .copy, .hsla:hover .copy {
+			opacity: 1;
+			cursor: copy;
+		}
+
+	}
+}

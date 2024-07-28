@@ -1,0 +1,32 @@
+{
+	"name": "colorspalette",
+	"private": true,
+	"version": "0.0.0",
+	"type": "module",
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview",
+		"format": "prettier --write .",
+		"lint": "prettier --check ."
+	},
+	"devDependencies": {
+		"@sveltejs/vite-plugin-svelte": "^3.1.1",
+		"prettier": "^3.3.3",
+		"prettier-plugin-svelte": "^3.2.6",
+		"sass": "^1.77.8",
+		"svelte": "^4.2.18",
+		"svelte-headless-table": "^0.18.2",
+		"vite": "^5.3.4",
+		"vite-plugin-jsonx": "^1.1.2"
+	},
+	"dependencies": {
+		"@rollup/pluginutils": "^5.1.0",
+		"colourspace": "^0.3.1",
+		"get-contrast": "^3.0.0",
+		"is-contrast-checker": "^1.0.5",
+		"passes-wcag": "^0.2.1",
+		"svelte-copy": "^1.4.2",
+		"svelte-french-toast": "^1.2.0"
+	}
+}
