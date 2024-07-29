@@ -44,6 +44,6 @@
 		display: flex;
 		flex-grow: 0;
 		height: 100vh;
-		background-color: aliceblue;
+		background-color: #fff;
 	}
 </style>
