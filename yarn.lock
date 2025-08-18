@@ -336,29 +336,24 @@ code-red@^1.0.3:
 
 color-convert@^1.9.3:
   version "1.9.3"
-  resolved "https://registry.yarnpkg.com/color-convert/-/color-convert-1.9.3.tgz#bb71850690e1f136567de629d2d5471deda4c1e8"
+  resolved "https://registry.npmjs.org/color-convert/-/color-convert-1.9.3.tgz"
   integrity sha512-QfAUtd+vFdAtFQcC8CCyYt1fYWxSqAiK2cSD6zDB8N3cpsEBAvRxp9zOGg6G/SHHJYAT88/az/IuDGALsNVbGg==
   dependencies:
     color-name "1.1.3"
 
 color-convert@~0.5.0:
   version "0.5.3"
-  resolved "https://registry.yarnpkg.com/color-convert/-/color-convert-0.5.3.tgz#bdb6c69ce660fadffe0b0007cc447e1b9f7282bd"
+  resolved "https://registry.npmjs.org/color-convert/-/color-convert-0.5.3.tgz"
   integrity sha512-RwBeO/B/vZR3dfKL1ye/vx8MHZ40ugzpyfeVG5GsiuGnrlMWe2o8wxBbLCpw9CsxV+wHuzYlCiWnybrIA0ling==
 
-color-name@1.1.3:
+color-name@1.1.3, color-name@^1.0.0:
   version "1.1.3"
-  resolved "https://registry.yarnpkg.com/color-name/-/color-name-1.1.3.tgz#a7d0558bd89c42f795dd42328f740831ca53bc25"
+  resolved "https://registry.npmjs.org/color-name/-/color-name-1.1.3.tgz"
   integrity sha512-72fSenhMw2HZMTVHeCA9KCmpEIbzWiQsjN+BHcBbS9vr1mtt+vJjPdksIBNUmKAW8TFUDPJK5SUU3QhE9NEXDw==
-
-color-name@^1.0.0:
-  version "1.1.4"
-  resolved "https://registry.yarnpkg.com/color-name/-/color-name-1.1.4.tgz#c2a09a87acbde69543de6f63fa3995c826c536a2"
-  integrity sha512-dOy+3AuW3a2wNbZHIuMZpTcgjGuLU/uBL/ubcZF9OXbDo8ff4O8yVp5Bf0efS8uEoYo5q4Fx7dY9OgQGXgAsQA==
 
 color-string@^1.6.0:
   version "1.9.1"
-  resolved "https://registry.yarnpkg.com/color-string/-/color-string-1.9.1.tgz#4467f9146f036f855b764dfb5bf8582bf342c7a4"
+  resolved "https://registry.npmjs.org/color-string/-/color-string-1.9.1.tgz"
   integrity sha512-shrVawQFojnZv6xM40anx4CkoDP+fZsw/ZerEMsW/pyzsRbElpsL/DBVW7q3ExxwusdNXI3lXpuhEZkzs8p5Eg==
   dependencies:
     color-name "^1.0.0"
@@ -366,7 +361,7 @@ color-string@^1.6.0:
 
 color@^3.1.1:
   version "3.2.1"
-  resolved "https://registry.yarnpkg.com/color/-/color-3.2.1.tgz#3544dc198caf4490c3ecc9a790b54fe9ff45e164"
+  resolved "https://registry.npmjs.org/color/-/color-3.2.1.tgz"
   integrity sha512-aBl7dZI9ENN6fUGC7mWpMTPNHmWUSNan9tuWN6ahh5ZLNk9baLJOnSMlrQkHcrfFgz2/RigjUVAjdx36VcemKA==
   dependencies:
     color-convert "^1.9.3"
@@ -374,24 +369,24 @@ color@^3.1.1:
 
 colourspace@^0.3.1:
   version "0.3.1"
-  resolved "https://registry.yarnpkg.com/colourspace/-/colourspace-0.3.1.tgz#3296f761150712c1945c1df6a7688da3fcda564f"
+  resolved "https://registry.npmjs.org/colourspace/-/colourspace-0.3.1.tgz"
   integrity sha512-dpmX/sZDr3uyb29Fv/8PaolhUPhml3b1hptSrjguLstjs+AtMy8qEKTxhgWIPw0JYPlvfeVUO+lubXeSzQlSjg==
 
 css-color-list@0.0.1:
   version "0.0.1"
-  resolved "https://registry.yarnpkg.com/css-color-list/-/css-color-list-0.0.1.tgz#8718e8695ae7a2cc8787be8715f1c008a7f28b15"
+  resolved "https://registry.npmjs.org/css-color-list/-/css-color-list-0.0.1.tgz"
   integrity sha512-+ArYbB9GT3tR/1ocPwgX2e9gwZiR3vi0+x0/HsQ1iB/9+tkugLJaPFO37s8zmNNc5vpsr8Kc7mQ78z83JwgfUA==
   dependencies:
     css-color-names "0.0.1"
 
 css-color-names@0.0.1:
   version "0.0.1"
-  resolved "https://registry.yarnpkg.com/css-color-names/-/css-color-names-0.0.1.tgz#5d0548fa256456ede4a9a0c2ac7ab19d3eb1ad81"
+  resolved "https://registry.npmjs.org/css-color-names/-/css-color-names-0.0.1.tgz"
   integrity sha512-i7o8lqlrmiG/EUzlBftBncsrkYgBCfCI9X6plNxdyXMZlMNd4hPX7u/o7YLH9vwXPPPAr+BUs3R0oto+lzjbyA==
 
 css-color-names@1.0.1:
   version "1.0.1"
-  resolved "https://registry.yarnpkg.com/css-color-names/-/css-color-names-1.0.1.tgz#6ff7ee81a823ad46e020fa2fd6ab40a887e2ba67"
+  resolved "https://registry.npmjs.org/css-color-names/-/css-color-names-1.0.1.tgz"
   integrity sha512-/loXYOch1qU1biStIFsHH8SxTmOseh1IJqFvy8IujXOm1h+QjUdDhkzOrR5HG8K8mlxREj0yfi8ewCHx0eMxzA==
 
 css-tree@^2.3.1:
@@ -457,7 +452,7 @@ esbuild@^0.21.3:
 
 esm@^3.0.84:
   version "3.2.25"
-  resolved "https://registry.yarnpkg.com/esm/-/esm-3.2.25.tgz#342c18c29d56157688ba5ce31f8431fbb795cc10"
+  resolved "https://registry.npmjs.org/esm/-/esm-3.2.25.tgz"
   integrity sha512-U1suiZ2oDVWv4zPO56S0NcR5QriEahGtdN2OR6FiOG4WJvcjBVFB0qI4+eKoWFH483PKGuLuu6V8Z4T5g63UVA==
 
 estree-walker@^2.0.2:
@@ -491,14 +486,14 @@ fsevents@~2.3.2, fsevents@~2.3.3:
 
 get-contrast-ratio@0.2.1:
   version "0.2.1"
-  resolved "https://registry.yarnpkg.com/get-contrast-ratio/-/get-contrast-ratio-0.2.1.tgz#3f8e2a9610df2fb55fc2004bfce002ff0aa25c0a"
+  resolved "https://registry.npmjs.org/get-contrast-ratio/-/get-contrast-ratio-0.2.1.tgz"
   integrity sha512-lNIpmDIoxlVJsEQ5G/XCxH2YiiXH0ukOZ0ASvPp9ku2f+2AOYG5OXQ9cLgc9p3lNom5gy8JLkfSzi8fZN9LdKg==
   dependencies:
     get-relative-luminance "0.3.1"
 
 get-contrast@^3.0.0:
   version "3.0.0"
-  resolved "https://registry.yarnpkg.com/get-contrast/-/get-contrast-3.0.0.tgz#d7a5f03512f8cf4c5cf51f17ccd87683afe2f6e7"
+  resolved "https://registry.npmjs.org/get-contrast/-/get-contrast-3.0.0.tgz"
   integrity sha512-B3uK3WpKz/4bHMCMSmi4UfZ/Gk8qqVHQXMk6ayhx/x5cCjK3hl5kvX4POTauVQK5kdzWNfbyd5QjwOxERSwKlQ==
   dependencies:
     css-color-names "1.0.1"
@@ -509,7 +504,7 @@ get-contrast@^3.0.0:
 
 get-relative-luminance@0.3.1:
   version "0.3.1"
-  resolved "https://registry.yarnpkg.com/get-relative-luminance/-/get-relative-luminance-0.3.1.tgz#f86b722194f87f23c9d4df9075e066329001907f"
+  resolved "https://registry.npmjs.org/get-relative-luminance/-/get-relative-luminance-0.3.1.tgz"
   integrity sha512-nLEJhDAPC4anQlFhBxt8lHRwxs5OvOxmN0mHCxOCFDtzy0x5cXTMKNKUycpulsAw1zNOtz6GIRcIaVMcUUcU7Q==
   dependencies:
     parse-color "1.0.0"
@@ -538,7 +533,7 @@ is-arrayish@^0.2.1:
 
 is-arrayish@^0.3.1:
   version "0.3.2"
-  resolved "https://registry.yarnpkg.com/is-arrayish/-/is-arrayish-0.3.2.tgz#4574a2ae56f7ab206896fb431eaeed066fdf8f03"
+  resolved "https://registry.npmjs.org/is-arrayish/-/is-arrayish-0.3.2.tgz"
   integrity sha512-eVRqCvVlZbuw3GrM63ovNSNAeA1K16kaR/LRY/92w0zxQ5/1YzwblUX652i4Xs9RwAGjW9d9y6X88t8OaAJfWQ==
 
 is-binary-path@~2.1.0:
@@ -550,7 +545,7 @@ is-binary-path@~2.1.0:
 
 is-blank@2.1.0:
   version "2.1.0"
-  resolved "https://registry.yarnpkg.com/is-blank/-/is-blank-2.1.0.tgz#69a73d3c0d4f417dfffb207a2795c0f0e576de04"
+  resolved "https://registry.npmjs.org/is-blank/-/is-blank-2.1.0.tgz"
   integrity sha512-SOPvTu4ZRlJOSBBYV7+6D6wN+2UcN6IJCaQ2Yeu3BQ3oolsD4dqF95sz52TCSgMVCLR1osLOXIiFsO2TKp0GZA==
   dependencies:
     is-empty latest
@@ -558,14 +553,14 @@ is-blank@2.1.0:
 
 is-contrast-checker@^1.0.5:
   version "1.0.5"
-  resolved "https://registry.yarnpkg.com/is-contrast-checker/-/is-contrast-checker-1.0.5.tgz#591745df00dae42b487a20df9f3a442dd226de15"
+  resolved "https://registry.npmjs.org/is-contrast-checker/-/is-contrast-checker-1.0.5.tgz"
   integrity sha512-nazCXnpg4ptES7xGHCf5YACE8LQUzf85+/cgjdWANgg5GzgYjVLkdcERX/n1cQECUcpJ0FDlUHAjWgAaueMgvg==
   dependencies:
     color "^3.1.1"
 
 is-empty@latest:
   version "1.2.0"
-  resolved "https://registry.yarnpkg.com/is-empty/-/is-empty-1.2.0.tgz#de9bb5b278738a05a0b09a57e1fb4d4a341a9f6b"
+  resolved "https://registry.npmjs.org/is-empty/-/is-empty-1.2.0.tgz"
   integrity sha512-F2FnH/otLNJv0J6wc73A5Xo7oHLNnqplYqZhUu01tD54DIPvxIRSTSLkrUB/M0nHO4vo1O9PDfN4KoTxCzLh/w==
 
 is-extglob@^2.1.1:
@@ -582,7 +577,7 @@ is-glob@^4.0.1, is-glob@~4.0.1:
 
 is-named-css-color@1.0.0:
   version "1.0.0"
-  resolved "https://registry.yarnpkg.com/is-named-css-color/-/is-named-css-color-1.0.0.tgz#3b5f89bdc4a515ff4ed25714ffc64129a25599b7"
+  resolved "https://registry.npmjs.org/is-named-css-color/-/is-named-css-color-1.0.0.tgz"
   integrity sha512-8U8MlUMBJ3RiDpbYY5QGmIxGKGmK8c96bnESYyY0rA4BwqN7EPOF9gG/TFktKd4J+p5isdEQ+1x5cwOkSUWCsw==
   dependencies:
     css-color-list "0.0.1"
@@ -601,7 +596,7 @@ is-reference@^3.0.0, is-reference@^3.0.1:
 
 is-whitespace@latest:
   version "0.3.0"
-  resolved "https://registry.yarnpkg.com/is-whitespace/-/is-whitespace-0.3.0.tgz#1639ecb1be036aec69a54cbb401cfbed7114ab7f"
+  resolved "https://registry.npmjs.org/is-whitespace/-/is-whitespace-0.3.0.tgz"
   integrity sha512-RydPhl4S6JwAyj0JJjshWJEFG6hNye3pZFBRZaTUfZFwGHxzppNaNOVgQuS/E/SlhrApuMXrpnK1EEIXfdo3Dg==
 
 json-parse-better-errors@^1.0.1:
@@ -677,7 +672,7 @@ normalize-path@^3.0.0, normalize-path@~3.0.0:
 
 parse-color@1.0.0:
   version "1.0.0"
-  resolved "https://registry.yarnpkg.com/parse-color/-/parse-color-1.0.0.tgz#7b748b95a83f03f16a94f535e52d7f3d94658619"
+  resolved "https://registry.npmjs.org/parse-color/-/parse-color-1.0.0.tgz"
   integrity sha512-fuDHYgFHJGbpGMgw9skY/bj3HL/Jrn4l/5rSspy00DoT4RyLnDcRvPxdZ+r6OFwIsgAuhDh4I09tAId4mI12bw==
   dependencies:
     color-convert "~0.5.0"
@@ -692,7 +687,7 @@ parse-json@^4.0.0:
 
 passes-wcag@^0.2.1:
   version "0.2.1"
-  resolved "https://registry.yarnpkg.com/passes-wcag/-/passes-wcag-0.2.1.tgz#29634997d277668c4265e8fc82b4146c16fa98af"
+  resolved "https://registry.npmjs.org/passes-wcag/-/passes-wcag-0.2.1.tgz"
   integrity sha512-fUly3MR8Rp94IIK0M5DC3077Mwfxr6up8nREgKXw6UjSfF47RN9Ic7NIL2xOYiHXZbkko5xvyYeA+9rjOUUzLg==
   dependencies:
     get-contrast-ratio "0.2.1"
@@ -744,14 +739,14 @@ readdirp@~3.6.0:
 
 relative-luminance@^2.0.0:
   version "2.0.1"
-  resolved "https://registry.yarnpkg.com/relative-luminance/-/relative-luminance-2.0.1.tgz#2babddf3a5a59673227d6f02e0f68e13989e3d13"
+  resolved "https://registry.npmjs.org/relative-luminance/-/relative-luminance-2.0.1.tgz"
   integrity sha512-wFuITNthJilFPwkK7gNJcULxXBcfFZvZORsvdvxeOdO44wCeZnuQkf3nFFzOR/dpJNxYsdRZJLsepWbyKhnMww==
   dependencies:
     esm "^3.0.84"
 
 rgb@^0.1.0:
   version "0.1.0"
-  resolved "https://registry.yarnpkg.com/rgb/-/rgb-0.1.0.tgz#be27b291e8feffeac1bd99729721bfa40fc037b5"
+  resolved "https://registry.npmjs.org/rgb/-/rgb-0.1.0.tgz"
   integrity sha512-F49dXX73a92N09uQkfCp2QjwXpmJcn9/i9PvjmwsSIXUGqRLCf/yx5Q9gRxuLQTq248kakqQuc8GX/U/CxSqlA==
 
 rollup@^4.13.0:
@@ -790,7 +785,7 @@ sass@^1.77.8:
 
 simple-swizzle@^0.2.2:
   version "0.2.2"
-  resolved "https://registry.yarnpkg.com/simple-swizzle/-/simple-swizzle-0.2.2.tgz#a4da6b635ffcccca33f70d17cb92592de95e557a"
+  resolved "https://registry.npmjs.org/simple-swizzle/-/simple-swizzle-0.2.2.tgz"
   integrity sha512-JA//kQgZtbuY83m+xT+tXJkmJncGMTFT+C+g2h2R9uxkYIrE2yy9sgmcLhCnw57/WSD+Eh3J97FPEDFnbXnDUg==
   dependencies:
     is-arrayish "^0.3.1"
@@ -823,9 +818,9 @@ svelte-french-toast@^1.2.0:
     svelte-writable-derived "^3.1.0"
 
 svelte-headless-table@^0.18.2:
-  version "0.18.2"
-  resolved "https://registry.yarnpkg.com/svelte-headless-table/-/svelte-headless-table-0.18.2.tgz#ef1165ab97db1fef0d965b9d75ef309e0a93da55"
-  integrity sha512-dnDTaXW5CNzRUjHVbc/Hb0Zv80zU4VcIUnAja6OuZriXvim1AqcWYQCHPRzBGwqj1m3YEHHNvspSzY0o5HzA0A==
+  version "0.18.3"
+  resolved "https://registry.npmjs.org/svelte-headless-table/-/svelte-headless-table-0.18.3.tgz"
+  integrity sha512-1zVnqXW0dvn6ZceYa94k+ziK+w5Dj9nlWYTQGXBv2JhM0resj9w7CWpclZK1TJwAALfEeH4InPBPO87L5fr+nQ==
   dependencies:
     svelte-keyed "^2.0.0"
     svelte-render "^2.0.1"
@@ -838,19 +833,19 @@ svelte-hmr@^0.16.0:
 
 svelte-keyed@^2.0.0:
   version "2.0.0"
-  resolved "https://registry.yarnpkg.com/svelte-keyed/-/svelte-keyed-2.0.0.tgz#57131f4cfab204e9000197049f70cdb772c0e84b"
+  resolved "https://registry.npmjs.org/svelte-keyed/-/svelte-keyed-2.0.0.tgz"
   integrity sha512-7TeEn+QbJC2OJrHiuM0T8vMBkms3DNpTE+Ir+NtnVBnBMA78aL4f1ft9t0Hn/pBbD/TnIXi4YfjFRAgtN+DZ5g==
 
 svelte-render@^2.0.1:
   version "2.0.1"
-  resolved "https://registry.yarnpkg.com/svelte-render/-/svelte-render-2.0.1.tgz#4c01c66a0e19b9aa10d0a1f87ebbed266886b4cd"
+  resolved "https://registry.npmjs.org/svelte-render/-/svelte-render-2.0.1.tgz"
   integrity sha512-RpB0SurwXm4xhjvHHtjeqMmvd645FURb79GFOotScOSqnKK5vpqBgoBPGC0pp+E/eZgDSQ9rRAdn/+N4ys1mXQ==
   dependencies:
     svelte-subscribe "^2.0.0"
 
 svelte-subscribe@^2.0.0, svelte-subscribe@^2.0.1:
   version "2.0.1"
-  resolved "https://registry.yarnpkg.com/svelte-subscribe/-/svelte-subscribe-2.0.1.tgz#4464991235f85bed347c7423998c38426b123af3"
+  resolved "https://registry.npmjs.org/svelte-subscribe/-/svelte-subscribe-2.0.1.tgz"
   integrity sha512-eKXIjLxB4C7eQWPqKEdxcGfNXm2g/qJ67zmEZK/GigCZMfrTR3m7DPY93R6MX+5uoqM1FRYxl8LZ1oy4URWi2A==
 
 svelte-writable-derived@^3.1.0:
@@ -911,7 +906,7 @@ vitefu@^0.2.5:
 
 wcag-contrast@3.0.0:
   version "3.0.0"
-  resolved "https://registry.yarnpkg.com/wcag-contrast/-/wcag-contrast-3.0.0.tgz#51c2df43f15162993006454b3362844205889efb"
+  resolved "https://registry.npmjs.org/wcag-contrast/-/wcag-contrast-3.0.0.tgz"
   integrity sha512-RWbpg/S7FOXDCwqC2oFhN/vh8dHzj0OS6dpyOSDHyQFSmqmR+lAUStV/ziTT1GzDqL9wol+nZQB4vCi5yEak+w==
   dependencies:
     relative-luminance "^2.0.0"
